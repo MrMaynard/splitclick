@@ -1,0 +1,14 @@
+Pillow==6.2.2
+pandas==0.24.2
+pytesseract==0.3.3
+mss==5.0.0
+numpy==1.18.2
+matplotlib==3.2.1
+opencv-python==4.2.0.32
+pynput==1.6.8
+scipy==1.4.1
+pywin32==227
+scikit-learn==0.22.2.post1
+imutils==0.5.3
+ipykernel==5.2.0
+playsound==1.2.2
